@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Expandable Drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="product">Product</string>
+    <string name="deals">Deals</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="product_array">
+        <item>Product One</item>
+        <item>Product Two</item>
+        <item>Product Three</item>
+        <item>Product Four</item>
+        <item>Product Five</item>
+    </string-array>
+    <string-array name="deals_array">
+        <item>Deal One</item>
+        <item>Deal Two</item>
+        <item>Deal Three</item>
+        <item>Deal Four</item>
+        <item>Deal Five</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
